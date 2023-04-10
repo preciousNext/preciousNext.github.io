@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  align-items: center;
+  justify-content: center;
+
+  margin-top: 30px;
+  width: 80%;
+  margin: 20px auto;
+  padding-bottom: 30px;
+  padding-left: 50px;
+}
+h1 {
+  font-size: 29px;
+  line-height: 50px;
+}
+p {
+  font-size: 13px;
+  color: #634c4c;
+}
+.login_logo {
+  display: flex;
+}
+.login_icon img {
+  width: 30px;
+  margin-top: 2px;
+}
+.signing {
+  margin-top: 7px;
+  margin-left: 10px;
+  color: rgb(43, 42, 42);
+}
+.signing a {
+  color: #634c4c;
+  text-decoration: none;
+
+  font-size: 15px;
+}
+.signing a:hover {
+  color: #ff0844;
+}
+input {
+  padding: 6px 5px;
+  padding-right: 50px;
+  border-radius: 5px;
+}
+label a {
+  margin-left: 30px;
+  color: rgb(41, 41, 151);
+  text-decoration: none;
+}
+.container button {
+  background-color: #fa6771;
+  padding: 13px 20px;
+  margin-top: 20px;
+  border: 0;
+  border-radius: 3px;
+  transition: all 0.3s ease;
+  background-color: rgb(2, 2, 44);
+}
+button a {
+  text-decoration: none;
+  color: #fff;
+
+  padding: 90px 10px;
+  padding-top: 30px;
+}
+.homepage {
+  text-decoration: none;
+  text-align: center;
+}

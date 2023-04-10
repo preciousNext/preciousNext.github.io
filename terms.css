@@ -1,0 +1,51 @@
+.wrapper h1 img {
+  width: 30px;
+  margin-right: 30px;
+
+  margin-top: 10px;
+}
+.wrapper {
+  text-align: center;
+}
+.wrapper h1 {
+  font-family: monospace;
+  font-size: 40px;
+  margin-bottom: 20px;
+  background-color: #ff8177;
+  background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+.wrapper p {
+  text-align: center;
+}
+.TOS {
+  margin-top: 20px;
+}
+.TOS a {
+  text-decoration: none;
+  color: black;
+}
+.terms1 {
+  padding: 5px 90px;
+  border-radius: 2px;
+}
+.terms2 {
+  padding: 5px 70px;
+  border-radius: 2px;
+}
+.terms3 {
+  padding: 5px 110px;
+  background-color: brown;
+  border: none;
+  border-radius: 2px;
+}
+p a {
+  text-decoration: none;
+}
+p a:hover {
+  color: red;
+}
